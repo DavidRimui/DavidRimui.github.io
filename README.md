@@ -28,7 +28,7 @@ $ git clone <--the copied code-->
 The following link should take you to the live website of this particular project
 
 ```console
-https://DavidRimui.github.io/phase-1-project/
+https://DavidRimui.github.io
 ```
 
 ## Copyright and License
