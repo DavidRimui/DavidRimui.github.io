@@ -32,4 +32,4 @@ https://DavidRimui.github.io
 ```
 
 ## Copyright and License
-Copyright and licesing can be found on the license document on the second branch
+This project belongs to David Rimui and any use or modification to it is allowed upon request without which anyone who uses or modifies it will be held liable
