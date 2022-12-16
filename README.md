@@ -4,8 +4,7 @@
 
  ## Project Description
 
-This is a test website for a travel agency based in kenya. The website's goal is to show the users details of the destinations and hotels that are in collaboration with the agency. The details should include the destination's and/or hotel's photograph and some of the main attractions. The website should have buttons that direct users to book their hotels and another button where users can book a trip to a destination.The project then ends asking for feedback from the users, presumably those who have been to the zoo. 
-
+This is a test website that is used to search for libraries. The website's goal is to show the users the exact geolocation of the library that they have searched. The details should include the street number, country, building name, contact details and opening and closing times.
 ## How To Set Up The Project 
 
 Clone this repository by clicking the code  button on the upper part of this repository. Copy the SSH key. 
